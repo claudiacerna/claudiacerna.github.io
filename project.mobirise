@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#6592e6",
         "secondaryColor": "#ff6666",
-        "successColor": "#2299aa",
+        "successColor": "#000000",
         "infoColor": "#47b5ed",
         "warningColor": "#FFE161",
         "dangerColor": "#ff9966",
@@ -44,7 +44,15 @@
     "versionPublish": "5.5.2",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": false,
+    "mbrsiteDomain": "xvt8n6rx1w",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
